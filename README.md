@@ -14,7 +14,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/your-repo.git
+[git clone https://github.com/your-username/your-repo.git](https://github.com/IamLunatyk/Kalkulator-procenta-skladanego-PHP.git)
 Upload the files to a server with PHP support.
 Open index.html in a browser.
 Enter the required investment details and run the calculation.
